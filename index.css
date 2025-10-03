@@ -10,7 +10,7 @@ h1{
     text-align: center;
 
 }
-.choise{
+.choice{
     height: 205px;
     width: 205px;
     border-radius: 50%;
@@ -18,7 +18,7 @@ h1{
     justify-content: center;
     align-items: center;
 }
-.choise:hover{
+.choice:hover{
     cursor: pointer;
     background-color: #332E3C;
     opacity: 0.8;
@@ -29,7 +29,7 @@ img{
     object-fit: cover;
     border-radius: 50%;
 }
-.choises{
+.choices{
     display: flex;
     justify-content: center;
     align-items: center;
